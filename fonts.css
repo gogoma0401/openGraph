@@ -1,0 +1,38 @@
+@charset "utf-8";
+
+
+/*'play', sans-serif*/
+
+
+/*scDream, sans-sefif;*/
+@font-face{
+  font-family: 'SpoqaHanSansNeo';
+  src:url('../assets/fonts/SpoqaHanSansNeo-Bold.woff2') format('woff2');
+  font-weight:700;
+  font-style:normal;
+  font-display:wap;
+}
+
+@font-face{
+  font-family: 'SpoqaHanSansNeo';
+  src:url('../assets/fonts/SpoqaHanSansNeo-Medium.woff2') format('woff2');
+  font-weight:400;
+  font-style:normal;
+  font-display:wap;
+}
+
+@font-face{
+  font-family: 'SpoqaHanSansNeo';
+  src:url('../assets/fonts/SpoqaHanSansNeo-Regular.woff2') format('woff2');
+  font-weight:300;
+  font-style:normal;
+  font-display:wap;
+}
+
+@font-face{
+  font-family: 'SpoqaHanSansNeo';
+  src:url('../assets/fonts/SpoqaHanSansNeo-Thin.woff2') format('woff2');
+  font-weight:100;
+  font-style:normal;
+  font-display:wap;
+}

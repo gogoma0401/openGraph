@@ -1,0 +1,35 @@
+@charset "utf-8";
+
+/***** common *****/
+body {
+  font-family: var(--main-font);
+  text-transform: capitalize;
+  text-align: center;
+  word-break: break-all;
+  overflow-wrap: break-word;
+}
+img {
+  width:100%;
+}
+.lower-case {
+  text-transform: lowercase;
+}
+.flex {
+  display: flex;
+}
+.more-btn {
+  transition: 0.5s;
+  background-color: var(--point-color);
+  padding:10px 30px;
+  color:#fff;
+  font-size: var(--font-size-14);
+  display: inline-block;
+  margin:30px 0;
+} 
+.more-btn:hover {
+  border-radius: 30px;
+}
+
+.block-line{
+  display: block;
+}
